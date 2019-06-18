@@ -1,0 +1,17 @@
+C:\Users\n1260013\Documents\Visual Studio 2015\Projects\授業\課題3-1-8Qeen\課題3-1-8Qeen\bin\Release\課題3-1-8Qeen.exe.config
+C:\Users\n1260013\Documents\Visual Studio 2015\Projects\授業\課題3-1-8Qeen\課題3-1-8Qeen\bin\Release\課題3-1-8Qeen.exe
+C:\Users\n1260013\Documents\Visual Studio 2015\Projects\授業\課題3-1-8Qeen\課題3-1-8Qeen\bin\Release\課題3-1-8Qeen.pdb
+C:\Users\n1260013\Documents\Visual Studio 2015\Projects\授業\課題3-1-8Qeen\課題3-1-8Qeen\obj\Release\課題3_1_8Qeen.Form1.resources
+C:\Users\n1260013\Documents\Visual Studio 2015\Projects\授業\課題3-1-8Qeen\課題3-1-8Qeen\obj\Release\課題3_1_8Qeen.Properties.Resources.resources
+C:\Users\n1260013\Documents\Visual Studio 2015\Projects\授業\課題3-1-8Qeen\課題3-1-8Qeen\obj\Release\課題3-1-8Qeen.csproj.GenerateResource.Cache
+C:\Users\n1260013\Documents\Visual Studio 2015\Projects\授業\課題3-1-8Qeen\課題3-1-8Qeen\obj\Release\課題3-1-8Qeen.exe
+C:\Users\n1260013\Documents\Visual Studio 2015\Projects\授業\課題3-1-8Qeen\課題3-1-8Qeen\obj\Release\課題3-1-8Qeen.pdb
+C:\Users\n1260013\Desktop\色々\授業データ\コーディングスキル演習\classroom\課題3-1-8Queen\ソース\課題3-1-8Qeen\bin\Release\課題3-1-8Qeen.exe.config
+C:\Users\n1260013\Desktop\色々\授業データ\コーディングスキル演習\classroom\課題3-1-8Queen\ソース\課題3-1-8Qeen\obj\Release\課題3-1-8Qeen.exe
+C:\Users\n1260013\Desktop\色々\授業データ\コーディングスキル演習\classroom\課題3-1-8Queen\ソース\課題3-1-8Qeen\obj\Release\課題3-1-8Qeen.pdb
+C:\Users\n1260013\Desktop\色々\授業データ\コーディングスキル演習\classroom\課題3-1-8Queen\ソース\課題3-1-8Qeen\bin\Release\課題3-1-8Qeen.exe
+C:\Users\n1260013\Desktop\色々\授業データ\コーディングスキル演習\classroom\課題3-1-8Queen\ソース\課題3-1-8Qeen\bin\Release\課題3-1-8Qeen.pdb
+C:\Users\n1260013\Desktop\色々\授業データ\コーディングスキル演習\classroom\課題3-1-8Queen\ソース\課題3-1-8Qeen\obj\Release\課題3-1-8Qeen.csprojResolveAssemblyReference.cache
+C:\Users\n1260013\Desktop\色々\授業データ\コーディングスキル演習\classroom\課題3-1-8Queen\ソース\課題3-1-8Qeen\obj\Release\課題3_1_8Qeen.Form1.resources
+C:\Users\n1260013\Desktop\色々\授業データ\コーディングスキル演習\classroom\課題3-1-8Queen\ソース\課題3-1-8Qeen\obj\Release\課題3_1_8Qeen.Properties.Resources.resources
+C:\Users\n1260013\Desktop\色々\授業データ\コーディングスキル演習\classroom\課題3-1-8Queen\ソース\課題3-1-8Qeen\obj\Release\課題3-1-8Qeen.csproj.GenerateResource.Cache
